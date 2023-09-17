@@ -1,4 +1,4 @@
-rootProject.name = "orchestartor"
+rootProject.name = "orchestrator"
 include("m1l1-hello")
 
 pluginManagement {
